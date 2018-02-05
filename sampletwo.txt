@@ -1,3 +1,7 @@
 jdkjkjlkj;j;j;lkj;lkn;kdnf;klna;kdnf
 Hi this is test but failed
+<<<<<<< HEAD
 this is kishore
+=======
+this is rajesh 
+>>>>>>> 04f7d3eece13d90338b7e4ae2aa06f02413f2320
